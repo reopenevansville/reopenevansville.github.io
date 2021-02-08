@@ -26,6 +26,7 @@ Loan data by state is available for loans of $150,000 and above.
 
 * [Loan Application](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
 * [PPP Loan Level Data](https://home.treasury.gov/policy-issues/cares-act/assistance-for-small-businesses/sba-paycheck-protection-program-loan-level-data)
+
 #### **Restart Evansville Post Pandemic Loan**
 The Southwest Indiana Small Business Development Center (SBDC) is accepting applications for the **Restart Evansville Post Pandemic** Loan Program.
 Businesses may request up to $5,000 to help offset costs to re-establish  normal business hours and operations following the mandated  Stay-At-Home Order issued by the Governor which drastically limited  commerce and travel in the State to protect the health and well-being of  all Hoosiers.
@@ -59,6 +60,7 @@ HOPE is now accepting applications for these funds. In order to qualify you must
 * Be currently behind on a housing or utility account with you listed as an account holder.
 * Have experienced an economic hardship (loss or reduction of income) due to COVID-19.
 Financial assistance is based on eligibility and need. This assistance requires documentation and can take 3-5 weeks to process after all information is received.
+
 [More Info](https://hopeofevansville.org/blog/2020/12/7/covid19-emergency-assistance-program-reopened-at-hope)
 
 #### **CAPE Rental &amp; Utility Assistance**
