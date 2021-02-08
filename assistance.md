@@ -2,7 +2,6 @@
 layout: page
 title: Assistance Portal
 permalink: /assistance
-/
 ---
 
 ## Business Assistance
