@@ -5,7 +5,7 @@ permalink: /assistance
 /
 ---
 
-# Business Assistance
+## Business Assistance
 #### **NRSA Emergency Relief Program**
 $500,000 is available to assist small businesses within two Neighborhood Revitalization Strategy Areas (NRSA) ― specific low income areas designated by HUD.
 Funds can be used for projects related to deep cleaning, modification to interiors for social distancing and other equipment to reduce the spread of COVID-19.
@@ -37,7 +37,7 @@ Businesses may request up to $5,000 to help offset costs to re-establish  normal
 The Economic Development Coalition of Southwest Indiana has partnered with three financial institutions to better serve at-risk businesses during COVID-19.
 Loans range from $5,000 to $7,500. Companies MUST have had less than 25 full-time employees (FTEs) prior to COVID-19 restrictions and can show they have been negatively impacted as a result of COVID-19.
 [Loan Application](https://www.southwestindiana.org/covid19-loans/)
-# Residential Assistance
+## Residential Assistance
 #### **Aurora, Inc. Eviction Prevention Assistance**
 Households negatively impacted by the COVID-19 pandemic and are facing eviction in 21 days or sooner can apply for Eviction Prevention Assistance through Indiana's housing portal at[ ](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.indianahousingnow.org&c=E,1,oXybF10ZJ7MuXW6C-nuZtOhaCgECbuxlvWb2SaNKXcFEM5K9CAZvRMPt1_6AOGh6nqKpQwJSvQfpL16h85CxlqnWd_Fkh6MtmJpZ7jQ3PNOpuJdLBMUgpGD37Wo,&typo=1)[www.indianahousingnow.org](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.indianahousingnow.org&c=E,1,oXybF10ZJ7MuXW6C-nuZtOhaCgECbuxlvWb2SaNKXcFEM5K9CAZvRMPt1_6AOGh6nqKpQwJSvQfpL16h85CxlqnWd_Fkh6MtmJpZ7jQ3PNOpuJdLBMUgpGD37Wo,&typo=1).  The state processes the applications and will send eligible applications to Aurora for verification. Households may also seek Eviction Prevention Assistance by visiting[ ](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.auroraevansville.org%2ffacing-eviction&c=E,1,h5tvkPK67pgoVKlHmVgdSnbXXl4wv3yQY-gkWVjJaryYrKtMAcoM7XhsGh8QpYHV05AoNvXuYZDXVnznaRR-Rqc2CrnqcYZpOGl9Kbq6pKb-zDNiBSLxFe3NAw,,&typo=1)[www.auroraevansville.org/facing-eviction](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.auroraevansville.org%2ffacing-eviction&c=E,1,h5tvkPK67pgoVKlHmVgdSnbXXl4wv3yQY-gkWVjJaryYrKtMAcoM7XhsGh8QpYHV05AoNvXuYZDXVnznaRR-Rqc2CrnqcYZpOGl9Kbq6pKb-zDNiBSLxFe3NAw,,&typo=1) and fill out a pre-application and an Aurora staff member will notify you within 3-5 business days.
 [Fill Out Pre-Applications](https://auroraevansville.org/facing-eviction/)
