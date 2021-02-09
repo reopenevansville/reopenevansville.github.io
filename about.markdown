@@ -9,17 +9,17 @@ Working under Governor Holcomb’s “Back on Track” plan for Indiana, the Tas
 The work of the Task Force will evolve as conditions improve and resources become available.
 ### Business Assistance
 Regional business partners will:
-    *     Identify negative impacts and challenges to local small/large businesses due to      #COVID-19.
-    *     Connect employers &amp; employees with local, state &amp; federal resources.
-    *     Provide workshops to assist businesses with transition to re-open.
-    *     Develop creative solutions to promote and support local businesses.
+- Identify negative impacts and challenges to local small/large businesses due to      #COVID-19.
+- Connect employers &amp; employees with local, state &amp; federal resources.
+- Provide workshops to assist businesses with transition to re-open.
+- Develop creative solutions to promote and support local businesses.
 Point of Contact: Tara Barney, President &amp; CEO of the [Southwest Chamber of Commerce](https://swinchamber.com/)
 
 **Members:** Tara Barney, SW IN Chamber of Commerce; Greg Wathen, Economic Development Coalition of SW IN, Josh Armstrong, Downtown Evansville – EID, Abby Elpers &amp; Andrea Lendy, Growth Alliance for Greater Evansville, Ellen Redding, Henderson Chamber of Commerce; Kim Howard, SW IN Small Business Development Center, Sara McCarty, WorkOne; Susan Vaughn, IN Economic Development Corporation; Pete Paradossi, Evansville Regional Business Committee; Kelley Coures, Dept of Metropolitan Development
 ### Workplace Safety &amp; Testing
 Local healthcare officials will work toward:
-    *     Determine prevalence of the COVID-19 virus in the community through testing to      provide employees and businesses with a greater sense of comfort to reopen; and
-    *     Additional guidance / best practices for workplace cleaning and preparation for      returning employees.
+- Determine prevalence of the COVID-19 virus in the community through testing to      provide employees and businesses with a greater sense of comfort to reopen; and
+- Additional guidance / best practices for workplace cleaning and preparation for      returning employees.
 Point of Contact: Dr. Steven Becker, [Stone Family Center for Health Sciences](https://medicine.iu.edu/evansville)
 
 **Members:** Dr. Steven Becker, Stone Family Center for Health Sciences and a team of doctors from Deaconess Health Systems &amp; Ascension St. Vincent
@@ -45,26 +45,26 @@ Point of Contact: Noah Stubbs, Communications Director for Mayor Lloyd Winnecke
 
 **Members:** Lynn Miller Pease, Leadership Everyone; Abraham Brown, Owner of La Campirana; Alfonso Vidal, Vidal Plastics; Ben Trockman, City Council; Chanda Ramsey, SW IN Chamber of Commerce
 ### Partner Organizations (as of 5/15/20)
-City of Evansville
-Economic Development Coalition of Southwest Indiana
-Downtown Evansville Economic Improvement District
-Department of Metropolitan Development
-Growth Alliance for Greater Evansville
-Evansville-Vanderburgh Convention &amp; Visitors Bureau
-Evansville-Vanderburgh Emergency Management Agency
-Evansville Parks &amp; Recreation Department
-Evansville Regional Business Committee
-Deaconess Health Systems
-Ascension St. Vincent
-VenuWorks / Ford Center &amp; Victory Theater
-Downtown Evansville - Economic Improvement District
-Work One Southwest
-Mesker Park Zoo &amp; Botanical Garden
-Indiana Small Business Development Center
-Feed Evansville
-Welborn Foundation
-ASM Global / Old National Events Plaza
-Vanderburgh County Health Department
-Vidal Plastics, LLC
-Leadership Everyone
-Mental Health America of Vanderburgh County
+- City of Evansville
+- Economic Development Coalition of Southwest Indiana
+- Downtown Evansville Economic Improvement District
+- Department of Metropolitan Development
+- Growth Alliance for Greater Evansville
+- Evansville-Vanderburgh Convention &amp; Visitors Bureau
+- Evansville-Vanderburgh Emergency Management Agency
+- Evansville Parks &amp; Recreation Department
+- Evansville Regional Business Committee
+- Deaconess Health Systems
+- Ascension St. Vincent
+- VenuWorks / Ford Center &amp; Victory Theater
+- Downtown Evansville - Economic Improvement District
+- Work One Southwest
+- Mesker Park Zoo &amp; Botanical Garden
+- Indiana Small Business Development Center
+- Feed Evansville
+- Welborn Foundation
+- ASM Global / Old National Events Plaza
+- Vanderburgh County Health Department
+- Vidal Plastics, LLC
+- Leadership Everyone
+- Mental Health America of Vanderburgh County
