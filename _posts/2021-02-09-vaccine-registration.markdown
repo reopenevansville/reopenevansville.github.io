@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Register for a vaccine (currently 65 and older)"
+date:   2021-02-09 09:31:00 -0600
+categories: COVID-19 Vaccination
+---
 
 The vaccination of Hoosiers against COVID-19 has begun. Any Hoosier age 65 and older is now eligible to schedule a vaccination appointment, as are long-term care residents, first responders (firefighters, police officers and sheriff's deputies, emergency medical services, reservists and correctional officers) who are regularly called to the scene of an emergency to give medical aid, and licensed and unlicensed healthcare workers who have in-person contact with patients or infectious material in any healthcare setting.
 
