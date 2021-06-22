@@ -10,6 +10,6 @@ title: Reopen Evansville Task Force
 social-network-links:
   email: "reopenevansville@evansville.in.gov"
 
-#Turn off Github shout outs
+# Turn off Github shout outs
 github:
   is_project_page: false
