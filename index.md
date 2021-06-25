@@ -4,23 +4,11 @@ Latest News
 Mobile Vaccination Clinic
 -------------------------
 
-In the ongoing effort to make COVID-19 vaccines available to all residents, the City of Evansville will be conducting a mobile vaccine effort through the end of June.
+Thanks to a partnership with the Reopen Evansville Task Force, METS and the Vanderburgh Health Department (VCHD), the COVID-19 Mobile Vaccination Clinic will continue operation.
 
-The collaboration between the Reopen Evansville Task Force, Vanderburgh County Health Department and the Metropolitan Evansville Transit Service (METS) will begin May 5th.
+The pop-up clinic will drop in at new neighborhood locations starting in July. Special community events have also been added to the calendar.
 
-Anyone 18+ will be eligible to receive the COVID-19 vaccine. Preregistration is not required; however, individuals will need a 2nd dose following a four-week period. Vaccinations will be administered by Vanderburgh County Health Department staff.
-
-A METS bus will serve as a pop-up clinic in the following Evansville locations:
-
--   Feed Evansville Community Food Share at Hartke Pool (201 N Boeke Road)
--   Howell Park (1101 South Barker Avenue)
--   Economy Grocery/Former Ruler Foods (1200 North Fulton Avenue)
--   Main METS Terminal (103 NW Sixth Street)
--   Lawndale METS Transfer Station (720 South Green River Road)
--   Potter's Wheel (333 Jefferson Avenue)
--   Simpson's Grocery (1365 Covert Avenue)
-
-[Download the schedule](https://github.com/cityofevansville/cityofevansville.github.io/raw/master/mobileclinic/COVID-19%20Mobile%20Vaccine%20Schedule.pdf)
+[Download the schedule](https://github.com/reopenevansville/reopenevansville.github.io/raw/main/COVID-19%20Vaccine%20Schedule.docx)
 
 About the Task Force
 --------------------
