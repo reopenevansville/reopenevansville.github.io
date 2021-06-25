@@ -8,7 +8,7 @@ Thanks to a partnership with the Reopen Evansville Task Force, METS and the Vand
 
 The pop-up clinic will drop in at new neighborhood locations starting in July. Special community events have also been added to the calendar.
 
-[Download the schedule](https://github.com/reopenevansville/reopenevansville.github.io/raw/main/COVID-19%20Vaccine%20Schedule.docx)
+[Download the schedule](https://github.com/reopenevansville/reopenevansville.github.io/raw/main/COVID-19%20Vaccine%20Schedule.pdf)
 
 About the Task Force
 --------------------
